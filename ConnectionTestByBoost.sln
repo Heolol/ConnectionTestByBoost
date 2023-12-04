@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConnectionTestByBoost", "ConnectionTestByBoost\ConnectionTestByBoost.vcxproj", "{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}.Debug|x64.ActiveCfg = Debug|x64
+		{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}.Debug|x64.Build.0 = Debug|x64
+		{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}.Debug|x86.ActiveCfg = Debug|Win32
+		{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}.Debug|x86.Build.0 = Debug|Win32
+		{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}.Release|x64.ActiveCfg = Release|x64
+		{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}.Release|x64.Build.0 = Release|x64
+		{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}.Release|x86.ActiveCfg = Release|Win32
+		{5490B12D-A395-4F8A-A6CA-D6FD6EEB7881}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE3499DF-805C-4EAF-8FBB-B74EFA3436BC}
+	EndGlobalSection
+EndGlobal
